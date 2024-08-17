@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplifynexttemplate-dev-dbd4c-authRole",
+      "UnauthRoleArn": "arn:aws:iam::633613527363:role/amplify-amplifynexttemplate-dev-dbd4c-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::633613527363:role/amplify-amplifynexttemplate-dev-dbd4c-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-amplifynexttemplate-dev-dbd4c-deployment",
+      "UnauthRoleName": "amplify-amplifynexttemplate-dev-dbd4c-unauthRole",
+      "StackName": "amplify-amplifynexttemplate-dev-dbd4c",
+      "StackId": "arn:aws:cloudformation:eu-west-1:633613527363:stack/amplify-amplifynexttemplate-dev-dbd4c/db96ec20-5c8d-11ef-be5f-0a4159e21f01",
+      "AmplifyAppId": "d2g6g0pbxc3mgh"
+    },
+    "categories": {
+      "auth": {
+        "amplifynexttemplate9eac2e27": {
+          "userPoolId": "eu-west-1_Yv0rCIdOL",
+          "userPoolName": "OzimegoUP",
+          "webClientId": "3gg4aga6hauhp87jf0cna9smbn",
+          "nativeClientId": "3gg4aga6hauhp87jf0cna9smbn"
+        }
+      }
+    }
+  }
+}
